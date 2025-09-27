@@ -1,23 +1,23 @@
 Goal of this script is to make the transition of a user to a new computer/profile look like nothing happened.
 
 Includes:
-  Favorites
-  Quick Access
-  Recent File links
-  Downloads (less than 100MB within 31 days)
-  Wallpaper
-  Taskbar shortcuts
-  Startup folder
-  Email Signatures
-  Templates
-  Sticky Notes (if not synced to account )
+  Favorites,
+  Quick Access,
+  Recent File links,
+  Downloads (less than 100MB within 31 days),
+  Wallpaper,
+  Taskbar shortcuts,
+  Startup folder,
+  Email Signatures,
+  Templates,
+  Sticky Notes (if not synced to account),
 
   Some common office apps and browsers: 
-  Google Earth
-  Adobe Acrobat
-  Chrome
-  Edge
-  Firefox
+  Google Earth,
+  Adobe Acrobat,
+  Chrome,
+  Edge,
+  Firefox,
   Brave
 
 Variables:
