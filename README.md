@@ -22,7 +22,7 @@ Includes:
   Brave
   
 Variables:
-  workingDir:        where files are stored temporarily
+  workingDir:        where files are stored temporarily,
   zipBkupExportPath: destination for final zip file.
   
 Main Steps:
