@@ -1,4 +1,4 @@
-Goal of this script is to make the transition of a user to a new computer/profile look like nothing happened.
+Goal of this script is to make the transition of a user to a new computer/profile look like nothing happened. It is assumed that the common profile folders Desktop, Documents and Pictures are already syncing to OneDrive. 
 
 Includes:
   Favorites,
