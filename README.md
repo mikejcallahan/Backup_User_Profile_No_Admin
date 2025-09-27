@@ -1,7 +1,7 @@
 Goal of this script is to make the transition of a user to a new computer/profile look like nothing happened. It is assumed that the common profile folders Desktop, Documents and Pictures are already syncing to OneDrive. This backup will cover modern program data (saved in c:\users\<username>\Appdata) Windows 7, 8, 10, 11. 
 
 Includes:
-  Installed Application names and versions
+  Installed Applications list,
   Favorites,
   Quick Access,
   Recent File links,
