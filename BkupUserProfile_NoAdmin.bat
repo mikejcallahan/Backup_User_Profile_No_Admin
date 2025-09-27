@@ -78,10 +78,8 @@ robocopy %userprofile%\Favorites "%workingDir%\Favorites" /E /np
 echo "_____LINKS____"
 robocopy  %userprofile%\Links %workingDir%\Links /e /np 
 
-GOTO comment
 echo "_____MUSIC______"
 robocopy %userprofile%\Music %workingDir%\Music /e /np 
-:comment
 
 echo "_____QUICK ACCESS________(drag to profile root)_____" 
 robocopy %userprofile%\recent\automaticdestinations "%workingDir%\recentSys\automaticdestinations" /e /np 
@@ -408,3 +406,4 @@ echo .
 echo .
 
 pause
+
