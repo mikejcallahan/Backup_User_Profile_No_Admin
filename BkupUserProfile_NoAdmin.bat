@@ -297,7 +297,7 @@ echo " 		edge://settings/profiles                                 "
 echo "                                                                   "                                                                        
 echo " 2. MAKE SURE YOU ARE SIGNED INTO EDGE ITSELF AND "Sync" is ON     "
 echo "                                                                   " 
-echo "     *If your PBS account isn't shown under "Your Profile", select "
+echo "     *If your account isn't shown under "Your Profile", select "
 echo "      "Sign in". Choose option to keep current Edge data (if asked)"    
 echo "      turn "Sync" ON                                               "
 echo .
@@ -406,4 +406,5 @@ echo .
 echo .
 
 pause
+
 
